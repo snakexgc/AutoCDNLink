@@ -1,5 +1,5 @@
 # AutoCDNLink
-帮助你快速生成套CF优选域名的CDN节点，减少自己手动输入优选域名的麻烦。 
+帮助您快速将支持套用cloudflare CDN的节点套上优选域名，减少手动输入优选域名的烦恼！
 
 # 说明
 本项目不存在偷节点信息的情况，因为是一个纯本地项目！源码全在 [main.py](https://github.com/snakexgc/AutoCDNLink/blob/main/main.py) 中，用chatgpt生成，理论上纯shit，无任何营养。 
