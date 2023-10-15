@@ -33,7 +33,7 @@ source.txt 你的初始节点（可同时放入多个节点）
 这三个文件放到同一目录下，填好信息后运行主程序即可。 
 
 # 运行截图
-![image](https://github.com/snakexgc/AutoCDNLink/assets/78722169/69be1561-2879-46a8-ab55-a9a4b1737736) 
+![image](https://github.com/snakexgc/AutoCDNLink/assets/78722169/ef7d2c87-02c7-4206-8255-e164f031ab2b)
 ![image](https://github.com/snakexgc/AutoCDNLink/assets/78722169/f1db68fe-d34c-4185-93c6-63f5b2c4da2b) 
 
 # 优选域名扩充计划
